@@ -37,7 +37,7 @@ Here we just talk about the CLI client.
 
 # Run Details
 
-> 1. in a terminal find the server jar file, type
+> I. in a terminal find the server jar file, type
   
     java -jar FileTransferServerCLI.jar  port [multi-client-mode]
     
@@ -46,7 +46,7 @@ Here we just talk about the CLI client.
     # flag with true, like:
         java -jar .jar 8888 true
         
-> 2. in another terminal find the client and run the jar file,
+> II. in another terminal find the client and run the jar file,
 
     java -jar FileTransferClientCLI.jar ip port 
     
