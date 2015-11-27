@@ -33,7 +33,7 @@ Here we just talk about the CLI client.
 
  Before you get the person file, you should look at the source code and find the database and collections where the file saved and indexed.
 
- Every time you want to transfer the data to the database, you just add the items in the .xls or .xlsx file in the /FileTransferClientCLI/FileList directory, and place the .txt and .jpg file in the /FileTransferClientCLI/FileDirectory directory.Finally just start the server first and start the client, the file will automatically transferred to the server, you can open several client at the same time because the server keep multi-thread work.
+ Every time you want to transfer the data to the database, you just add the items in the .xls or .xlsx file in the **/FileTransferClientCLI/FileList** directory, and place the .txt and .jpg file in the **/FileTransferClientCLI/FileDirectory** directory.Finally just start the server first and start the client, the file will automatically transferred to the server, you can open several client at the same time because the server keep multi-thread work.
 
 # Run Details
 
