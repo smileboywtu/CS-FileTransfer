@@ -10,14 +10,14 @@ Using Java Swing and CLI
 # Description
 This project contain the following sub-project:
 
-> 1. C/S Mode FileTransfer CLI
-> 2. C/S Mode FileTransfer Swing
+ 1. C/S Mode FileTransfer CLI
+ 2. C/S Mode FileTransfer Swing
 
 If you want to know more about them, click the following links to go to the main page of them.
 
->+ [CLI](https://github.com/smileboywtu/CS-FileTransfer/tree/master/FileTransferClientCLI).
++ [CLI](https://github.com/smileboywtu/CS-FileTransfer/tree/master/FileTransferClientCLI).
 
->+ [Swing](https://github.com/smileboywtu/CS-FileTransfer/tree/master/FileTransferClient)
++ [Swing](https://github.com/smileboywtu/CS-FileTransfer/tree/master/FileTransferClient)
 
 # Tips
 
