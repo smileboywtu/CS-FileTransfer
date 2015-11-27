@@ -2,17 +2,17 @@
 
 This project give a really nice client GUI, it's very easy to use them in your local computer whatever your platform, ubuntu, windows, mac.
 
->## Environment
-> + NetBean
-> + Java 8 Oracle
-> + MongoDB 3.0 above
+## Environment
+ + NetBean
+ + Java 8 Oracle
+ + MongoDB 3.0 above
 
->## How to Run?
+## How to Run?
 
-> 1. run the sever jar file.
-> 2. run the client jar file.
-> 3. connect the client to server.
-> 4. add files, start to transfer.
+1. run the sever jar file.
+2. run the client jar file.
+3. connect the client to server.
+4. add files, start to transfer.
 
 # Description
 ![Alt text](http://img.blog.csdn.net/20150911152605891)
